@@ -1,3 +1,7 @@
+.sandbox {
+	height: 100vh;
+}
+
 .calc-window {
 	padding: 15px 20px 20px;
 }
