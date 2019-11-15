@@ -1,0 +1,17 @@
+.calc-window {
+	padding: 15px 20px 20px;
+}
+
+.count-window {
+	height: 80px;
+	width: 225px;
+	padding: 10px;
+}
+
+#count {
+	font-size: 1.7rem;
+}
+
+.btns {
+	margin-top: 15px;
+}
